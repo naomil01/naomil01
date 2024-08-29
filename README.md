@@ -3,6 +3,7 @@
 
  Career Switcher from Mental Health Nurse to Tech!
 
+
 ## ABOUT ME
 👩‍⚕️ ---> 👩‍💻 I am on a journey to becoming a software engineer with interest in DevOps and Cloud Services
 
@@ -13,6 +14,7 @@
 📺 Fun fact : My favourite all time TV show is Game of Thrones
 
 :e-mail: Reach me on : naomiloa01@gmail.com
+
 
 
   ### 📱 Connect with me
