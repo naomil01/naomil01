@@ -1,6 +1,6 @@
 
 # :wave: **Hello , My name is Naomi**
-Tech.inwithNai 
+Also known as Tech.inwithNai 
 
 Career switcher from Mental Health Nurse to Tech!
 
