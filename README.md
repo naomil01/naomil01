@@ -1,7 +1,7 @@
 
 # :wave: **Hello , My name is Naomi**
 
- Career Switcher in transition from Mental Health Nurse to Tech!
+Career switcher from Mental Health Nurse to Tech!
 
 
 ## ABOUT ME
