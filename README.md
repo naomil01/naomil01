@@ -3,7 +3,6 @@
 
 Career switcher from Mental Health Nurse to Tech!
 
-
 ## ABOUT ME
 👩‍⚕️ ---> 👩‍💻 I am on a journey to becoming a software engineer with interest in DevOps and Cloud Services
 
