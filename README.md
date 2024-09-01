@@ -7,7 +7,7 @@ Career switcher from Mental Health Nurse to Tech!
 ## ABOUT ME
 👩‍⚕️ ---> 👩‍💻 I am on a journey to becoming a software engineer with interest in **DevOps** and **Cloud Services**
 
-📚 Recently completed a Full Stack Development Degree Bootcamp.
+📚 Recently completed a Full Stack Development Degree Bootcamp
 
 :computer: I’m currently learning the foundations of **DevOps** and **Cloud computing**
 
